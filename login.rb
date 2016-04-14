@@ -1,3 +1,5 @@
+# Author:   aetheryang
+# Contact:  aetheryang@gmail.com
 require 'net/http'
 require 'io/console'
 puts 'Please input the username'
